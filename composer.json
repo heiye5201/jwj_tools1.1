@@ -1,0 +1,11 @@
+{
+    "name": "jwj/tools1.1",
+    "description": "jwj tools",
+    "authors": [
+        {
+            "name": "jwj",
+            "email": "664047456@qq.com"
+        }
+    ],
+    "require": {}
+}
