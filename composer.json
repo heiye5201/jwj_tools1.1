@@ -7,5 +7,6 @@
             "email": "664047456@qq.com"
         }
     ],
+    "minimum-stability": "dev",
     "require": {}
 }
