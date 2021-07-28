@@ -8,6 +8,8 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {},
+    "require": {
+        "jwj/tools1.2": "dev"
+    },
     "license": "MIT"
 }
